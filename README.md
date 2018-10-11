@@ -2,8 +2,7 @@
 一个帧动画实现，用来替换官方的AnimationDrawable，解决内存溢出!
 
 # Gradle
-[![Download](https://api.bintray.com/packages/li-xiaojun/jrepo/frameanimview/images/download.svg)](https://bintray.com/li-xiaojun/jrepo/frameanimview/_latestVersion)
-
+[ ![Download](https://api.bintray.com/packages/li-xiaojun/jrepo/frameanimation/images/download.svg) ](https://bintray.com/li-xiaojun/jrepo/frameanimation/_latestVersion)
 ```
 compile 'com.lxj:frameanimation:0.0.1'
 ```
