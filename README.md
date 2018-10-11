@@ -4,7 +4,7 @@
 # Gradle
 [ ![Download](https://api.bintray.com/packages/li-xiaojun/jrepo/frameanimation/images/download.svg) ](https://bintray.com/li-xiaojun/jrepo/frameanimation/_latestVersion)
 ```
-compile 'com.lxj:frameanimation:0.0.1'
+compile 'com.lxj:frameanimation:latest release'
 ```
 
 # Usage
