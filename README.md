@@ -5,7 +5,7 @@
 [![Download](https://api.bintray.com/packages/li-xiaojun/jrepo/frameanimview/images/download.svg)](https://bintray.com/li-xiaojun/jrepo/frameanimview/_latestVersion)
 
 ```
-compile 'com.lxj.frameanimview:frameanimview:1.0.0'
+compile 'com.lxj:frameanimation:0.0.1'
 ```
 
 # Usage
